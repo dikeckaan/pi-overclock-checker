@@ -9,6 +9,6 @@ while True:
 	mhz =mhz[7:]
 	mhz =mhz[::-1]
 	print (temp)
-	print mhz
+	print (mhz + " mhz")
 	print ("")
 	time.sleep(1)
