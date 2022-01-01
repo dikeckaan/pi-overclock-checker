@@ -12,3 +12,4 @@ while True:
 	print (mhz + " mhz")
 	print ("")
 	time.sleep(1)
+	os.system("clear")
